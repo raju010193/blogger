@@ -1,0 +1,8 @@
+*.log
+*.pot
+*.pyc
+local_settings.py
+local_manage.py
+**github.com
+.idea
+.git
